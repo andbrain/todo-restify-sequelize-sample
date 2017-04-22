@@ -1,0 +1,26 @@
+{
+	"dev":{
+		"username": "hamza",
+	    "password": "h@mz@2016",
+	    "database": "todo_dev",
+	    "host": "127.0.0.1",
+	    "dialect": "postgres",
+	    "server_port": 8080
+	},
+	"test":{
+		"username": "hamza",
+	    "password": "h@mz@2016",
+	    "database": "todo_test",
+	    "host": "127.0.0.1",
+	    "dialect": "postgres",
+	    "server_port": 8090
+	},
+	"prod":{
+		"username": "hamza",
+	    "password": "h@mz@2016",
+	    "database": "todo",
+	    "host": "127.0.0.1",
+	    "dialect": "postgres",
+	    "server_port": 8000
+	}
+}
